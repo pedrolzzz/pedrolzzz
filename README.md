@@ -4,6 +4,7 @@
 - 🔭 Atualmente Trablaho em alguns projetos de front-end e estudando back end e node js // Currently I work on some frontend projects and studying backend and node js 
 - 📫 How to reach me : contatonone@gmail.com
 - 😄 Pronouns: ele/dele
+- 📚 Estudante de Engenharia da Computanão na Universidade Estadual de Feira de Santana - UEFS
 
 <div>
   <a href="https://github.com/pedrolzzz">
