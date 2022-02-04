@@ -8,7 +8,7 @@
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolzzz&layout=compact)](https://github.com/pedrolzzz/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolzzz&layout=compact&theme=radical)](https://github.com/pedrolzzz/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
