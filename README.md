@@ -1,8 +1,7 @@
 ### Olá! Fala Tu👋
 
 
-- 🔭 Atualmente Trablaho em alguns projetos de front-end
-- 🌱 Estudando back-end
+- 🔭 Atualmente Trablaho em alguns projetos de front-end e estudando back end e node js // Currently I work on some frontend projects and studying backend and node js 
 - 📫 How to reach me : contatonone@gmail.com
 - 😄 Pronouns: ele/dele
 
