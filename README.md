@@ -1,9 +1,10 @@
 ### Olá! Fala Tu👋
 
 
-- 🔭 Atualmente Trabalho em alguns projetos de front-end e estudando back end e node js // Currently I work on some frontend projects and studying backend and node js 
-- 📫 Contato // How to reach me : contatonone@gmail.com
-- 📚 Estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana - UEFS
+- 🔭 Procurando Oportuindades como DEV e Qa // Currently Looking for job opportunities as DEV or Qa
+- 📫 Contato // How to reach me : pedrohenriquesoa@gmail.com
+- 📚 Graduado em Analise e Desenvolvimento de Sistemas
+- 📚 Graduação incompleta em Engenharia da Computação na Universidade Estadual de Feira de Santana - UEFS
 - 😄 Pronomes // Pronouns: ele/dele
 
 
